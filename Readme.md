@@ -1,0 +1,1 @@
+Simple WinForms application for working with database and Gmail
